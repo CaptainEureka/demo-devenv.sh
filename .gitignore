@@ -1,0 +1,16 @@
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# Direnv
+.direnv*
+.direnv/
+
+# Pre-commit managed by devenv
+.pre-commit-config.yaml
+
+# Python
+.venv/
+.venv*
+
